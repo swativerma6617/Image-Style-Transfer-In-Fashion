@@ -13,34 +13,7 @@ from a list.
 
 Four plots will be displayed one after the other once exiting each plot window before the code finishes running.
 
-# Contributors
-- Bertha
-Oversaw project schedules, resource allocation, and strategic direction.
-Conducted a comprehensive review of literature.
-Handled Data Preprocessing
-Selected and implemented appropriate evaluation metrics.
-Contributed to documentation, providing insights, model developments, predictions, and future scope.
 
-- Minh
-Oversaw project schedules, resource allocation, and strategic direction.
-Conducted a comprehensive review of literature.
-Developed and implemented RestNet50.
-Selected and implemented appropriate evaluation metrics.
-Contributed to documentation, providing insights, model developments, predictions, and future scope.
-
-- Swati 
-Oversaw project schedules, resource allocation, and strategic direction.
-Conducted a comprehensive review of literature.
-Developed and implemented Vgg19.
-Selected and implemented appropriate evaluation metrics.
-Contributed to documentation, providing insights, model developments, predictions, and future scope.
-
-- Ting
-Oversaw project schedules, resource allocation, and strategic direction.
-Conducted a comprehensive review of literature.
-Handled Data Preprocessing
-Developed and Implemented MobileNet50 
-Contributed to documentation, providing insights, model developments, predictions, and future scope.
 
 # Dataset Download
 - [Cleaned Maryland Polyvore](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/cleaned-maryland.md)
